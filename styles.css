@@ -1009,3 +1009,29 @@ a {
   line-height: 1.65;
 }
 
+/* ═══════════════════════════════════════════
+   마음 전하실 곳 - 화환 반입 불가 안내
+   ═══════════════════════════════════════════ */
+
+.flower-bottom-notice {
+  margin-top: 32px;
+  padding: 16px 18px;
+  background-color: #F5EBE7;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.flower-bottom-notice__title {
+  margin: 0 0 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #517989;
+}
+
+.flower-bottom-notice__text {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.65;
+  color: #777777;
+  word-break: keep-all;
+}

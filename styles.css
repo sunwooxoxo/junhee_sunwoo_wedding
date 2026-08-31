@@ -979,3 +979,24 @@ a {
     transform: none !important;
   }
 }
+/* 상단 축하 화환 안내 */
+.hero__flower-notice {
+  margin-top: 14px;
+  text-align: center;
+  color: #888888;
+  font-size: 0.72rem;
+  line-height: 1.6;
+  letter-spacing: -0.02em;
+}
+
+.hero__flower-notice strong {
+  display: block;
+  margin-bottom: 2px;
+  font-weight: 500;
+  color: #777777;
+}
+
+.hero__flower-notice span {
+  display: block;
+  font-weight: 300;
+}

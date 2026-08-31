@@ -1016,10 +1016,9 @@ a {
 .flower-bottom-notice {
   max-width: 400px;
   margin: 28px auto 0;
-  padding: 16px 18px;
-  background-color: #F5EBE7;
-  border-radius: 8px;
+  padding: 0 10px;
   text-align: center;
+  background-color: transparent;
 }
 
 .flower-bottom-notice__title {

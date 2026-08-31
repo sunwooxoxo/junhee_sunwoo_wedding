@@ -978,10 +978,13 @@ a {
     opacity: 1 !important;
     transform: none !important;
   }
-}
-/* 상단 축하 화환 안내 */
+   
+/* ═══════════════════════════════════════════
+   상단 축하 화환 안내
+   ═══════════════════════════════════════════ */
+
 .hero__flower-notice {
-  margin-top: 14px;
+  margin-top: 18px;
   text-align: center;
   color: #888888;
   font-size: 0.72rem;
@@ -991,12 +994,16 @@ a {
 
 .hero__flower-notice strong {
   display: block;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
+  font-size: 0.72rem;
   font-weight: 500;
   color: #777777;
 }
 
-.hero__flower-notice span {
-  display: block;
+.hero__flower-notice p {
+  margin: 0;
+  font-size: 0.72rem;
   font-weight: 300;
+  color: #888888;
+  line-height: 1.65;
 }

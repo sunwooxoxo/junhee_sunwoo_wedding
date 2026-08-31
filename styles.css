@@ -986,8 +986,8 @@ a {
 .hero__flower-notice {
   margin-top: 18px;
   text-align: center;
-  color: #E682BE;
-  font-size: 0.85rem;
+  color: #888888;
+  font-size: 0.72rem;
   line-height: 1.6;
   letter-spacing: -0.02em;
 }
@@ -995,15 +995,15 @@ a {
 .hero__flower-notice strong {
   display: block;
   margin-bottom: 5px;
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   font-weight: 500;
-  color: #777777;
+  color: #E682BE;
 }
 
 .hero__flower-notice p {
   margin: 0;
   font-size: 0.72rem;
   font-weight: 300;
-  color: #E682BE;
+  color: #888888;
   line-height: 1.65;
 }

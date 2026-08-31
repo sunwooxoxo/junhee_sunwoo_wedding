@@ -985,9 +985,9 @@ a {
    ═══════════════════════════════════════════ */
 
 .hero__flower-notice {
-  margin-top: 30px;
+  margin-top: 26px;
   text-align: center;
-  color: #D6ACE2;
+  color: #E0C0E0;
   font-size: 0.8rem;
   line-height: 1.6;
   letter-spacing: -0.02em;
@@ -998,7 +998,7 @@ a {
   margin-bottom: 8px;
   font-size: 0.85rem;
   font-weight: 600;
-  color: #D6ACE2;
+  color: #E0C0E0;
 }
 
 .hero__flower-notice p {
